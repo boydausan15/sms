@@ -1,0 +1,5 @@
+{
+  "name": "SMS API Project",
+  "description": "A full-stack application that sends SMS messages using the Twilio API.",
+  "requestFramePermissions": []
+}
